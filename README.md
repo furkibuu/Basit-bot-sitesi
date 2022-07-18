@@ -1,4 +1,2 @@
-# Basit-bot-sitesi
-Sanctus Bot Sistesi 
-
-YAPIMI BANA AİTTİR BAŞKA BİR YERDE PAYLAŞIRSANIZ VEYA KENDİM YAPTIM GİBİ ŞEYLERİ DUYARSAM TELİF ATMA HAKKINA SAHİBİM
+Furki Tarafından Yapılan Bot Sitesidir Yakın Zamanda Yeni Site Paylaşacağım
+Discord Sunucum : https://discord.gg/WRmfy54p4V
