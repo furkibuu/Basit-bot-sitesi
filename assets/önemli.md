@@ -1,1 +1,2 @@
-BAK SİTEYİ MİLLETE BEN YAPTIM DİYE SUNMA AĞIZANA SIÇARIM KNKM CANIMSIN
+<h1>Desktek İçin Türkiye Code Sunucusuna Gel<h1>
+  [DESTEK](https://discord.gg/turkiyecode)
